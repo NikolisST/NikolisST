@@ -1,16 +1,14 @@
 ## Hi there 👋
+- ⚡ I'm a junior web developer.
+- 🌱 Currently enhancing my skills in full stack development.
+- 😄 I have been building projects with React.
 
-<!--
-**NikolisST/NikolisST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Languages,Technologies and Tools I have used:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,js,vscode,react,vite,typescript,mysql,pytorch,python,postgresql,java,cs,cpp,json,leetcode,visualstudio,unity,vercel"
+    />
+  </a>
+</p>

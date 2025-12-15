@@ -1,7 +1,6 @@
 ## Hi there 👋
-- ⚡ I'm a junior web developer.
+- ⚡ I'm a junior software engineer.
 - 🌱 Currently enhancing my skills in full stack development.
-- 😄 I have been building projects with React.
 
   ### Languages,Technologies and Tools I have used:
 
